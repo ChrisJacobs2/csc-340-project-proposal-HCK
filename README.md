@@ -1,3 +1,6 @@
+### google Drive Link
+https://docs.google.com/document/d/1cLWQxMUbRw2M81DbVlGuD-rVn9o51pMp/edit?usp=sharing&ouid=111198790850313464743&rtpof=true&sd=true
+
 # Project Proposal
 
 ## A streamlined hotel management application using AI to create Synergy between various hotel employees 
